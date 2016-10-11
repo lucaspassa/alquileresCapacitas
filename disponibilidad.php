@@ -1,12 +1,7 @@
 
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <?php include "include/inc_head.php"; ?>
-	<link href="./css/bootstrap-datetimepicker.min.css" rel="stylesheet" media="screen">
-		<script type="text/javascript" src="./js/bootstrap-datetimepicker.js" charset="UTF-8"></script>
-
-  </head>
+<html lang="en">    
+<?php include "include/inc_head.php"; ?>
 
   <body>
 
