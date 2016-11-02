@@ -1,10 +1,10 @@
 delimiter $$
 
-CREATE DATABASE `capacitas` /*!40100 DEFAULT CHARACTER SET latin1 */$$
+CREATE DATABASE `capacitas`;
 
 USE capacitas;
 
-CREATE  TABLE `capacitas`.`Cliente` (
+CREATE  TABLE `capacitas`.`cliente` (
   `idCliente` INT NOT NULL AUTO_INCREMENT ,
   `nombre` VARCHAR(45) NOT NULL ,
   `apellido` VARCHAR(45) NOT NULL ,
