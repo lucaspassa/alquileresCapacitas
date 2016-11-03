@@ -6,7 +6,7 @@ Código del head que se incluye en todas las páginas
       <!-- The justified navigation menu is meant for single line per list item.
            Multiple lines will require custom code not provided by Bootstrap. -->
       <div class="masthead">
-        <h3 class="text-muted">Alquiler CAPACITAS</h3>
+        <h3 class="text-muted"><a href="index.php">Alquiler CAPACITAS</a></h3>
         <nav>
           <ul class="nav nav-justified">
             <li 
