@@ -1,7 +1,8 @@
-<?
+<?php
 /*
 Código del head que se incluye en todas las páginas
 */
+require "inc_connectdb.php";
 ?>
 <head>
    <meta charset="utf-8">

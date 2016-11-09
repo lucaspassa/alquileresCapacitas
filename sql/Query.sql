@@ -8,3 +8,5 @@ select * from cliente WHERE fechaNacimiento = '1978-05-19';
 select * from cliente WHERE email LIKE ("%@yahoo.com");
 -- clientes menores a 30 años FIXME
 select * from cliente WHERE NOW()-fechaNacimiento < '30-00-00';
+-- clientes con nombre inicial "l"
+select * from cliente WHERE nombre LIKE ("L%");

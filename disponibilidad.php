@@ -44,13 +44,13 @@
        <div class="form-group">
     <label for="exampleInputEmail1">Cantidad de habitaciones:</label>
     <label class="form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1"> 1
+  <input class="form-check-input" type="radio" name="ctdHabitacionesRadioOptions" id="inlineRadio1" value="option1"> 1
 </label>
 <label class="form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2"> 2
+  <input class="form-check-input" type="radio" name="ctdHabitacionesRadioOptions" id="inlineRadio2" value="option2"> 2
 </label>
 <label class="form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3"> 3
+  <input class="form-check-input" type="radio" name="ctdHabitacionesRadioOptions" id="inlineRadio3" value="option3"> 3
 </label>
   </div>
 
@@ -59,13 +59,13 @@
         <div class="form-group">
     <label for="exampleInputEmail1">Tipo de inmueble:</label>
     <label class="form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1"> Departamento
+  <input class="form-check-input" type="radio" name="tipoInmuebleRadioOptions" id="inlineRadio1" value="option1"> Departamento
 </label>
 <label class="form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2"> Bungalow
+  <input class="form-check-input" type="radio" name="tipoInmuebleRadioOptions" id="inlineRadio2" value="option2"> Bungalow
 </label>
 <label class="form-check-inline">
-  <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3"> Cabaña
+  <input class="form-check-input" type="radio" name="tipoInmuebleRadioOptions" id="inlineRadio3" value="option3"> Cabaña
 </label>
   </div>
   
